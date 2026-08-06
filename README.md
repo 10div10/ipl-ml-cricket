@@ -195,12 +195,10 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 ---
 
-## 📄 License
+## 📄 Research Paper
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is accompanied by a research paper covering the methodology, feature selection, and model comparison in more depth.
 
-<div align="center">
-
-Made with 🏏 and 🐍 by [Your Name](https://github.com/YOUR_USERNAME)
+**[Read the paper →](https://ijsdai.com/index.php/IJSDAI/index)**
 
 </div>
